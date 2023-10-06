@@ -12,11 +12,15 @@
   "devDependencies": {
     "@parcel/transformer-sass": "^2.7.0",
     "@types/jest": "^28.1.6",
+    "assert": "^2.1.0",
+    "console-browserify": "^1.2.0",
     "jest": "^28.1.3",
     "parcel": "^2.7.0",
     "prettier": "2.7.1",
+    "process": "^0.11.10",
     "sass": "^1.54.4",
     "ts-jest": "^28.0.7",
-    "typescript": "^4.7.4"
+    "typescript": "^4.7.4",
+    "util": "^0.12.5"
   }
 }
